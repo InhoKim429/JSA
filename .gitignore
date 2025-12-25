@@ -1,0 +1,13 @@
+__pycache__
+wandb
+checkpoints
+final
+utils_qual
+*.tar
+sam
+*.wav
+*.jpg
+*.png
+*.txt
+token
+clipseg
