@@ -86,7 +86,7 @@ Training progress is logged using Weights & Biases (wandb). Set `--wandb true` t
 
 ## Dataset Preparation
 
-Update the dataset paths in `train_script.sh`:
+Update the dataset paths in `train_script.sh` and `test_script.sh`:
 
 ```bash
 # For VGG-Sound
