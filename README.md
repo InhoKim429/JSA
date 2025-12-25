@@ -67,15 +67,18 @@ bash train_script.sh vggss_144k vggss 0
 
 ## Testing
 
+Use the provided shell script for testing:
+
 ```bash
-python test_model.py \
-    --model_dir ./checkpoints \
-    --experiment_name your_experiment \
-    --testset vggss \
-    --test_data_path /path/to/test/data \
-    --test_gt_path metadata/vggss.json \
-    --gpu 0
+# Test on VGG-Sound test set
+bash test_script.sh vggss 0 your_experiment
 ```
+
+### Testing Parameters
+
+- `$1`: Test dataset (vggss, vggss_heard, vggss_unheard, flickr, ms3, s4)
+- `$2`: GPU device ID
+- `$3`: Experiment name (should match the checkpoint directory name)
 
 ## Logging
 
