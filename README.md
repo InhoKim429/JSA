@@ -22,18 +22,6 @@ Official implementation of **"Improving Sound Source Localization with Joint Slo
 - **Flickr SoundNet**: 10k and 144k training splits
 - **AVSBench**: MS3 and S4 test sets for evaluation
 
-## Requirements
-
-Create a conda environment and install dependencies:
-
-```bash
-conda create -n jsa python=3.8
-conda activate jsa
-pip install torch torchvision torchaudio
-pip install numpy opencv-python pillow scipy scikit-learn
-pip install wandb tqdm
-```
-
 ## Project Structure
 
 ```
