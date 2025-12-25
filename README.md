@@ -2,8 +2,7 @@
 
 Official implementation of **"Improving Sound Source Localization with Joint Slot Attention on Image and Audio"**.
 
-> **Paper**: [PAPER](https://arxiv.org/abs/2504.15118)
-> **Conference**: CVPR 2025
+[PAPER](https://arxiv.org/abs/2504.15118)
 
 ## Features
 
