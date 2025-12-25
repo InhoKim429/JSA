@@ -2,10 +2,7 @@
 
 Official implementation of **"Improving Sound Source Localization with Joint Slot Attention on Image and Audio"**.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2504.15118-b31b1b.svg)](https://arxiv.org/abs/2504.15118)
-
-> **Paper**: [Improving Sound Source Localization with Joint Slot Attention on Image and Audio](https://arxiv.org/abs/2504.15118)
-> **Authors**: Inho Kim, Youngkil Song, Jicheol Park, Won Hwa Kim, Suha Kwak
+> **Paper**: [PAPER](https://arxiv.org/abs/2504.15118)
 > **Conference**: CVPR 2025
 
 ## Features
